@@ -1,6 +1,7 @@
 1. install all dependancies using pip install -r requirement.txt
-2. open the browser and run http://127.0.0.1:8000/docs
-3. Pyhton version 3.11.7
+2. run the command -->  uvicorn app.main:app --reload
+3. open the browser and run --> http://127.0.0.1:8000/docs
+4. Pyhton version 3.11.7
 
 
 
